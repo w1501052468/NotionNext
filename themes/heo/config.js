@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://king.freekj.link' },
+    { title: '欢迎来到我的博客', url: 'https://blog.862888.xyz' },
   ],
 
   // 英雄区(首页顶部大卡)
@@ -14,7 +14,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'king博客',
   HEO_HERO_TITLE_4: '初心不改',
   HEO_HERO_TITLE_5: 'king的个人博客',
-  HEO_HERO_TITLE_LINK: 'https://king.freekj.link',
+  HEO_HERO_TITLE_LINK: 'https://blog.862888.xyz',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '思维认知', url: '/category/思维认知' },
@@ -31,7 +31,7 @@ const CONFIG = {
     '你好！我是',
    
   ],
-  HEO_INFO_CARD_URL: 'https://king.freekj.link/about', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://blog.862888.xyz/about', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -93,7 +93,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '站点导航',
   HEO_SOCIAL_CARD_TITLE_2: '其他自建站点导航',
   HEO_SOCIAL_CARD_TITLE_3: '点击查看导航站',
